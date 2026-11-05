@@ -1,0 +1,8 @@
+{
+  "uuid": "port-killer@camiloeferrera.github.io",
+  "name": "Port Killer",
+  "description": "Muestra los puertos TCP en los que escuchan tus procesos y permite detenerlos con un clic. Filtra por puerto, proceso o carpeta y abre el puerto en el navegador.\n\nRequiere ss (iproute2).",
+  "shell-version": ["49", "50", "51"],
+  "url": "https://github.com/camiloeferrera/port-killer",
+  "version-name": "1.0"
+}

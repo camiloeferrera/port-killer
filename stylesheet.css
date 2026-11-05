@@ -1,0 +1,15 @@
+.port-killer-scroll { max-height: 440px; }
+.port-killer-search { min-width: 340px; }
+.port-killer-port {
+  font-weight: bold;
+  min-width: 60px;
+  font-feature-settings: "tnum";
+}
+/* Ancho fijo: los textos largos se recortan con … en vez de ensanchar el menú. */
+.port-killer-info { width: 300px; }
+.port-killer-name { font-weight: bold; }
+.port-killer-sub { font-size: 0.85em; color: #9a9a9a; }
+.port-killer-btn { padding: 6px; border-radius: 99px; }
+.port-killer-btn:hover { background-color: rgba(255, 255, 255, 0.12); }
+.port-killer-kill:hover { color: #ff6b6b; }
+.port-killer-tooltip { max-width: 360px; }
